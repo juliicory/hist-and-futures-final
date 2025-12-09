@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 20px;
   font-family: Arial, sans-serif;
-  background-image: url("/assets/flower_pixel.jpg");
+  background-image: url("assets/flower_pixel.jpg");
 }
 
 h1 {
